@@ -2,7 +2,7 @@
 <h3 align="center">Unleashing the power of data to drive informed decisions as a Business Analyst</h3>
 <img width="400" alt="Coding" align="right" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" >
 
-- 🌱 I’m currently learning **Django, Cloud**
+- 🌱 I’m currently learning **Information Systems** at UIT
 
 - 💬 Ask me about **SQL, Python**
 

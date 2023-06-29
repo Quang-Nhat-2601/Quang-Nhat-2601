@@ -8,13 +8,12 @@
 
 - 📫 How to reach me **quangnhatle2601@gmail.com**
 
-- 📄 Resume: [https://drive.google.com/file/d/1KQ3eUCY1t6A0AiBrwGspWQh0FOVyboKT/view?usp=sharing][(https://drive.google.com/file/d/1KQ3eUCY1t6A0AiBrwGspWQh0FOVyboKT/view?usp=sharing)](https://drive.google.com/file/d/121Ixi9MrWAhxfUuaWgeuRzUMPG_h2AMc/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KQ3eUCY1t6A0AiBrwGspWQh0FOVyboKT/view?usp=sharing](https://drive.google.com/file/d/1KQ3eUCY1t6A0AiBrwGspWQh0FOVyboKT/view?usp=sharing)
 
 - ⚡ Fun fact **I consume enough coffee in a day to fuel a small caffeine-driven army!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/lequangnhat2601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lequangnhat2601/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,4 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quang-nhat-2601&show_icons=true&locale=en&layout=compact" alt="quang-nhat-2601" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quang-nhat-2601&show_icons=true&locale=en" alt="quang-nhat-2601" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quang-nhat-2601&show_icons=true&locale=en" alt="quang-nhat-2601" /></p>

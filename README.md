@@ -22,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quang-nhat-2601&show_icons=true&locale=en&layout=compact" alt="quang-nhat-2601" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quang-nhat-2601&show_icons=true&locale=en" alt="quang-nhat-2601" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quang-nhat-2601&show_icons=true&locale=en" alt="quang-nhat-2601" /></p>

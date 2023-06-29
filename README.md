@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **quangnhatle2601@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KQ3eUCY1t6A0AiBrwGspWQh0FOVyboKT/view?usp=sharing](https://drive.google.com/file/d/1KQ3eUCY1t6A0AiBrwGspWQh0FOVyboKT/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1KQ3eUCY1t6A0AiBrwGspWQh0FOVyboKT/view?usp=sharing](https://drive.google.com/file/d/1KQ3eUCY1t6A0AiBrwGspWQh0FOVyboKT/view?usp=sharing)
 
 - ⚡ Fun fact **I consume enough coffee in a day to fuel a small caffeine-driven army!**
 

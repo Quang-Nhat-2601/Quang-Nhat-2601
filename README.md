@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Information Systems** at UIT
 
-- 💬 Ask me about **SQL, Dotnet, Python, Web Development**
+- 💬 Ask me about **JAVA, SQL, Dotnet, Python, Web Development**
 
 - 📫 How to reach me **quangnhatle2601@gmail.com**
 
